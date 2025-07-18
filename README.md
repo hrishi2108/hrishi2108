@@ -1,46 +1,93 @@
+# 👨‍💻 Hrishi Vikas Yadav
 
-# Hrishi Vikas Yadav
+**Full Stack Web Developer | MERN Stack | React.js | Firebase | JavaScript**
 
-📍 Mumbai, Maharashtra  
 📧 rishiyadav2108@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hrishi-yadav-912096340)  
-🔗 [GitHub](https://github.com/hrishi2108)
+📞 9326199399  
+🌐 [LinkedIn](https://www.linkedin.com/in/hrishi-yadav-912096340)  
+🐙 [GitHub](https://github.com/hrishi2108)  
 
 ---
 
-## About Me
+## 🧾 Summary
 
-I’m a passionate developer focused on building clean, user-friendly, and scalable web applications.  
-I enjoy solving real-world problems and continuously improving my skills through hands-on projects.
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+Dynamic and detail-oriented **Web Developer** with strong proficiency in **React.js**, **JavaScript**, and **responsive web development**. Skilled in both frontend and backend technologies with hands-on experience in building scalable, user-centric applications. Passionate about delivering quality code and enhancing productivity using **Generative AI** and best practices.
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education
 
-### [Shankara Crystal Store](https://shiny-lollipop-26ff8a.netlify.app/)  
-A full-featured e-commerce platform with authentication and admin dashboard.  
-[GitHub Repo](https://github.com/hrishi2108/Crystal_store.git)
+**Masai School**  
+*Full Stack Web Developer* (Present)
 
-### [Coursera Clone](https://roaring-paprenjak-7e24e2.netlify.app)  
-A responsive educational website with course listings and category filtering.
-
-### [Time Buddy](https://fanciful-elf-ed4c09.netlify.app)  
-A productivity tool with Pomodoro timer and task tracker built using Firebase.
+**Kirti M. Doongursee College of Arts, Science & Commerce**  
+*B.Sc. Computer Science* — Apr 2024
 
 ---
+
+## 💡 Skills
+
+### 🔧 Technical
+- **Languages:** JavaScript, HTML5, CSS3
+- **Frontend:** React.js, Redux, Responsive Web Design
+- **Backend:** Node.js, Express.js, Firebase
+- **Database:** MongoDB, Firebase Firestore
+- **Tools:** Git, GitHub, Netlify
+
+### 🌟 Soft Skills
+- Attention to Detail
+- Teamwork & Communication
+- Adaptability & Quick Learning
+
+---
+
+## 🚀 Projects
+
+### 🔮 [Shankara Crystal Store](https://shiny-lollipop-26ff8a.netlify.app/)
+*React.js, Firebase, CSS*
+
+- Developed a fully functional **e-commerce website** for spiritual crystals.
+- Features:
+  - Admin panel with **role-based routing**.
+  - **Add/Edit/Delete products** with image upload to Firebase Storage.
+  - **Search** and **sort products** by category and price.
+  - Firebase Auth with secure login and protected routes.
+- [GitHub Repo](https://github.com/hrishi2108/Crystal_store.git)
+
+---
+
+### 🎓 [Coursera Clone](https://roaring-paprenjak-7e24e2.netlify.app)
+*HTML, CSS, JavaScript*
+
+- Mimicked Coursera’s homepage and course browsing experience.
+- Features:
+  - Course detail page and search filter.
+  - Responsive design with mobile-first layout.
+  - Login page for user access.
+- [GitHub Repo](https://github.com/hrishi2108/B43_WEB_019_The-Stylists.git)
+
+---
+
+### ⏰ [Time Buddy](https://fanciful-elf-ed4c09.netlify.app)
+*HTML, CSS, JavaScript, Firebase*
+
+- Productivity app to improve time and task management.
+- Features:
+  - **Pomodoro Timer** with customizable intervals.
+  - **Priority-based Task List** (High, Medium, Low).
+  - **Link Organizer** for bookmarking.
+  - **Goal Tracker** with deadline countdown.
+- [GitHub Repo](https://github.com/Dheerajmlk/Frontend-fanatics.git)
+
+---
+
+## 📫 Let’s Connect!
+
+- Email: **rishiyadav2108@gmail.com**
+- Phone: **9326199399**
+- GitHub: [@hrishi2108](https://github.com/hrishi2108)
+- LinkedIn: [Hrishi Vikas Yadav](https://www.linkedin.com/in/hrishi-yadav-912096340)
+
+---
+
+> 🚀 *“Always curious. Always learning. Always building.”*
