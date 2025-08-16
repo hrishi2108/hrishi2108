@@ -9,76 +9,67 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrishi2108&label=Profile%20views&color=0e75b6&style=flat" alt="hrishi2108" />
+<img src="https://drive.google.com/uc?export=view&id=1EEo6O1DU7cf_cFWEQyH6ue_T8GEx2GvA" alt="My Image" width="300"/>
+
 </p>
 
 ---
 
 ## 🧾 Summary
 
-Dynamic and detail-oriented **Web Developer** with strong proficiency in **React.js**, **JavaScript**, and **responsive web development**. Skilled in both frontend and backend technologies with hands-on experience in building scalable, user-centric applications. Passionate about delivering quality code and enhancing productivity using **Generative AI** and best practices.
+Dynamic and detail-oriented **Full Stack Web Developer** with strong proficiency in **React.js**, **JavaScript**, and **responsive web development**. Skilled in both frontend and backend technologies with hands-on experience in building scalable, user-centric applications. Passionate about delivering quality code and enhancing productivity using **Generative AI** and best practices.
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Masai School** — *Full Stack Web Developer (Present)*
-- 🧠 **Kirti M. Doongursee College of Arts, Science & Commerce** — *B.Sc. Computer Science (Apr 2024)*
+- **Masai School** — *Full Stack Web Development* (Present)  
+- **Kirti M. Doongursee College of Arts, Science & Commerce** — *B.Sc. Computer Science* (Apr 2024)  
 
 ---
 
 ## 💡 Skills
 
-### 🛠️ Technical Skills
-- **Languages:** JavaScript, HTML5, CSS3  
-- **Frontend:** React.js, Redux, Responsive Web Design  
-- **Backend:** Node.js, Express.js, Firebase  
-- **Database:** MongoDB, Firebase Firestore  
-- **Tools:** Git, GitHub, Netlify
-
-### 🧠 Soft Skills
-- ✅ Attention to Detail  
-- 🤝 Teamwork & Communication  
-- ⚡ Adaptability & Quick Learning  
+**Frontend:** React.js, Redux, HTML5, CSS3, Responsive Web Design  
+**Backend:** Node.js, Express.js, Firebase  
+**Database:** MongoDB, Firebase Firestore  
+**Tools:** Git, GitHub, Netlify  
+**Soft Skills:** Attention to Detail, Teamwork, Adaptability, Communication  
 
 ---
 
 ## 🚀 Projects
 
 ### 🔮 [Shankara Crystal Store](https://shiny-lollipop-26ff8a.netlify.app/)
-> *React.js, Firebase, CSS*
+*React.js, Firebase, CSS*  
+🛒 E-commerce website for spiritual crystals.  
+- Role-based admin panel with CRUD product management  
+- Secure login using Firebase Auth  
+- Search & Sort by category and price  
+- Responsive design  
 
-🛒 A fully functional **e-commerce website** for spiritual crystals.
-- Admin panel with **role-based routing**
-- **Add/Edit/Delete products** with image upload
-- **Search** and **Sort** by category and price
-- Secure login using **Firebase Auth**
-
-🔗 [GitHub Repo](https://github.com/hrishi2108/Crystal_store.git)
+🔗 [GitHub Repo](https://github.com/hrishi2108/Crystal_store.git)  
 
 ---
 
 ### 🎓 [Coursera Clone](https://roaring-paprenjak-7e24e2.netlify.app)
-> *HTML, CSS, JavaScript*
+*HTML, CSS, JavaScript*  
+🎥 Simulated Coursera platform with course search & filter.  
+- Responsive UI  
+- Login page & course detail page  
 
-- Simulated Coursera UI experience with:
-  - Course detail and search filter
-  - Responsive layout
-  - Login page
-
-🔗 [GitHub Repo](https://github.com/hrishi2108/B43_WEB_019_The-Stylists.git)
+🔗 [GitHub Repo](https://github.com/hrishi2108/B43_WEB_019_The-Stylists.git)  
 
 ---
 
 ### ⏰ [Time Buddy](https://fanciful-elf-ed4c09.netlify.app)
-> *HTML, CSS, JavaScript, Firebase*
+*HTML, CSS, JavaScript, Firebase*  
+⏳ Productivity app with Pomodoro timer & task management.  
+- Customizable work/break intervals  
+- Task manager with priorities  
+- Goal tracker with deadlines  
 
-- Pomodoro timer ⏳ with custom intervals
-- Priority-based task manager ✅
-- Bookmark organizer 🔗
-- Goal tracker 🎯 with deadlines
-
-🔗 [GitHub Repo](https://github.com/Dheerajmlk/Frontend-fanatics.git)
+🔗 [GitHub Repo](https://github.com/Dheerajmlk/Frontend-fanatics.git)  
 
 ---
 
@@ -96,10 +87,10 @@ Dynamic and detail-oriented **Web Developer** with strong proficiency in **React
 
 ## 📫 Let’s Connect!
 
-- 📧 Email: [rishiyadav2108@gmail.com](mailto:rishiyadav2108@gmail.com)  
-- 📞 Phone: 9326199399  
-- 🐙 GitHub: [@hrishi2108](https://github.com/hrishi2108)  
-- 🌐 LinkedIn: [Hrishi Vikas Yadav](https://www.linkedin.com/in/hrishi-yadav-912096340)
+- 📧 [rishiyadav2108@gmail.com](mailto:rishiyadav2108@gmail.com)  
+- 📞 9326199399  
+- 🐙 [GitHub: @hrishi2108](https://github.com/hrishi2108)  
+- 🌐 [LinkedIn: Hrishi Vikas Yadav](https://www.linkedin.com/in/hrishi-yadav-912096340)  
 
 ---
 
