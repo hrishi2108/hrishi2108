@@ -7,10 +7,6 @@
   <a href="https://github.com/hrishi2108"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1EEo6O1DU7cf_cFWEQyH6ue_T8GEx2GvA" alt="Profile Image" width="280" style="border-radius: 50%"/>
-</p>
-
 ---
 
 ## 🧾 About Me  
