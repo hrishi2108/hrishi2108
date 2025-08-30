@@ -67,7 +67,7 @@
 - Login & Course detail page  
 - Responsive design  
 
-🔗 [GitHub Repo](https://github.com/hrishi2108/B43_WEB_019_The-Stylists.git)  
+🔗 [GitHub Repo](https://github.com/hrishi2108/Coursera_Clone.git)  
 
 ---
 
